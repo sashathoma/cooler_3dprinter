@@ -7,3 +7,4 @@ https://docarti.fr/wp-content/uploads/2020/04/MKS-TFT24-DataSheet.pdf
 [IMG-4081.jpg]
 
 Wiring up the duet Mini 3 5 plus helped but was not great because we do not have an LCD for it 
+[name](IMG-4084.jpg)
