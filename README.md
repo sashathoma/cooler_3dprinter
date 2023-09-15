@@ -12,3 +12,5 @@ Wiring up the duet Mini 3 5 plus helped but was not great because we do not have
 The heated bed would not heat up because the thermistor was not connected to the MKS properly so I  I attempted to Pivot to the duet Mini 3 
 
 
+I later found an LCD screen for the duet Mini 3 and attempted to wire it up but every time I wired it up it would begin to heat up very quickly 
+[IMG-4082.jpg]
