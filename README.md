@@ -9,7 +9,8 @@ https://docarti.fr/wp-content/uploads/2020/04/MKS-TFT24-DataSheet.pdf
 Wiring up the duet Mini 3 5 plus helped but was not great because we do not have an LCD for it 
 [name](IMG-4080.jpg)
 
-The heated bed would not heat up because the thermistor was not connected to the MKS properly so I  I attempted to Pivot to the duet Mini 3 
+The heated bed would not heat up because the thermistor was not connected to the MKS properly so I attempted to Pivot to the duet Mini 3. I used this video to try to make the thermistor work.
+https://www.youtube.com/watch?v=f651bIg4SCo&t=134s
 
 
 I later found an LCD screen for the duet Mini 3 and attempted to wire it up but every time I wired it up it would begin to heat up very quickly 
@@ -21,4 +22,6 @@ https://www.youtube.com/watch?v=6nqddfxHla0&t=131s
 https://www.youtube.com/watch?v=W6U-u0wBdfQ&t=30s
 https://www.youtube.com/watch?v=dw7p9LFJjjY&t=754s
 All of these videos are talking about how the duet Mini 3 works or how the LCD screen for it works 
+
+
 
