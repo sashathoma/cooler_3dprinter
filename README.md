@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=f651bIg4SCo&t=134s
 I later found an LCD screen for the duet Mini 3 and attempted to wire it up but every time I wired it up it would begin to heat up very quickly 
 [IMG-4082.jpg]
 
+https://www.youtube.com/watch?v=vOrL9eFLBmo&t=164s
+Is the video used to wire 
+
+
 
 I found several YouTube videos to help me wire the LCD screen 
 https://www.youtube.com/watch?v=6nqddfxHla0&t=131s
