@@ -14,3 +14,11 @@ The heated bed would not heat up because the thermistor was not connected to the
 
 I later found an LCD screen for the duet Mini 3 and attempted to wire it up but every time I wired it up it would begin to heat up very quickly 
 [IMG-4082.jpg]
+
+
+I found several YouTube videos to help me wire the LCD screen 
+https://www.youtube.com/watch?v=6nqddfxHla0&t=131s
+https://www.youtube.com/watch?v=W6U-u0wBdfQ&t=30s
+https://www.youtube.com/watch?v=dw7p9LFJjjY&t=754s
+All of these videos are talking about how the duet Mini 3 works or how the LCD screen for it works 
+
