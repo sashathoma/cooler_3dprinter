@@ -27,5 +27,8 @@ https://www.youtube.com/watch?v=W6U-u0wBdfQ&t=30s
 https://www.youtube.com/watch?v=dw7p9LFJjjY&t=754s
 All of these videos are talking about how the duet Mini 3 works or how the LCD screen for it works 
 
+this gethub is helpful for flashing the mks 
+https://github.com/makerbase-mks/MKS-SBASE/tree/master
+
 
 
