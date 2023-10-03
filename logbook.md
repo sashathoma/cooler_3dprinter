@@ -1,1 +1,1 @@
-[IMG-4081.jpg]
+![motherbord](IMG-4080.jpg)
